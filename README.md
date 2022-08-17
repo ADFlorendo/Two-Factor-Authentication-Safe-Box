@@ -1,1 +1,2 @@
 # Two-Factor-Authentication-Safe-Box
+Similar to security tools on websites that asks for two forms of authentication from the user, this safe also utilizes the same concept with a passcode and switches.
